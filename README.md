@@ -1,5 +1,3 @@
-# Tron-Address-Checker
-
 # Name: Tron-Address-Checker
 # Description:
 Tron-Address-Checker is a specialized tool for validating TRON blockchain addresses to identify vanity addresses or those with specific patterns, such as consecutive identical characters at the end. It helps users quickly determine if a given address meets their desired criteria, making it ideal for TRON enthusiasts and developers interested in address pattern analysis.
